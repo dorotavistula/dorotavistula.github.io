@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction
+title: Visual Studio Code
 nav_order: 2
 description: "Markdown Praca domowa"
 ---
