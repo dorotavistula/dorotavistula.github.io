@@ -10,7 +10,7 @@ permalink: /
 
 # Introduction
 
-This manual will help you understand the operation and maintenance of your vehicle so that you can enjoy many hours of driving pleasure.
+This user guide helps you understand the operation and maintenance of your vehicle so that you can enjoy many hours of driving pleasure.
 
 Welcome to the growing family of Mini owners. This vehicle has been delivered to you with confidence.
 
