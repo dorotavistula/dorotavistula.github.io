@@ -8,11 +8,11 @@ permalink: /
 
 Moja strona zawiera podstawowe informacje o VSC, Markdown, GitHub Desktop i Github Pages.
 
-![text to display if no image](assets/images/VSC.jpg)
+![text to display if no image](assets/images/VSC.jpg){: style="width: 50px;"}
 
-![text to display if no image](assets/images/Markdown.jpg)
+![text to display if no image](assets/images/Markdown.jpg){: style="width: 50px;"}
 
-![text to display if no image](assets/images/GitHub-Desktop.jpg)
+![text to display if no image](assets/images/GitHub-Desktop.jpg){: style="width: 50px;"}
 
-![text to display if no image](assets/images/GitHubPages.jpeg)
+![text to display if no image](assets/images/GitHubPages.jpeg){: style="width: 50px;"}
 
